@@ -1,16 +1,12 @@
-## Hi there 👋
+### Olá! 👋 Sou o Guilherme
 
-<!--
-**GuiSouzaH/GuiSouzaH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Sobre mim:**
+* 🎓 Cursando Engenharia de Software.
+* 🚀 Foco em desenvolvimento Backend.
+* 💼 Movido por desafios, atualmente com foco total na prática para o aprendizado com a mão na massa.
+* 📚 Estudando e construindo projetos práticos com Java, Spring Boot e APIs REST.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Minhas Tecnologias:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,postman,git,github" />
+</p>
